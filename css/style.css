@@ -84,3 +84,27 @@ img {
   min-width: 54px;
   text-align: center;
 }
+
+footer {
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  bottom: 0;
+  background-color: #f2f2f2;
+}
+
+.bottomLeft {
+  color: #757575;
+  float: left;
+  padding: 10px;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.bottomRight {
+  color: #757575;
+  float: right;
+  padding: 10px;
+  margin-right: 20px;
+  text-decoration: none;
+}
